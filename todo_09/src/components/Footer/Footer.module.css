@@ -1,0 +1,25 @@
+.footer{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 1500px;
+height: 293px;
+background: #707070 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+color: #ffff;
+clip-path: polygon(100% 40%, 0 60%, 0 100%, 140% 100%);
+
+}
+
+.h4First{
+    font-size: 12px;
+    margin-top: 5px;
+    margin-top: 170px;
+}
+
+.h4{
+    font-size: 12px;
+    margin-top: 5px;
+}

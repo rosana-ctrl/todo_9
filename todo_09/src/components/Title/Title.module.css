@@ -1,0 +1,30 @@
+.h2{
+
+    font: normal normal normal 20px/24px Helvetica Neue;
+    font-size: 20px;
+    margin-left: 80px ;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.h1{
+    font: normal normal bold 40px/49px Helvetica Neue;
+    font-size: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.h3{
+    font: normal normal normal 14px/16px Helvetica Neue;
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.divTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
