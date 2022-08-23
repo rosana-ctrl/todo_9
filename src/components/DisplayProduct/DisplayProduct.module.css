@@ -1,0 +1,68 @@
+.secDisplay {
+  display: flex;
+  flex-direction: column;
+  /* margin-top: 40px; */
+  width: 200px;
+  /* gap: 16px; */
+  font-family: HelveticaNeue;
+  margin-bottom: auto;
+
+}
+
+.imgDisplay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 150px;
+  border: 1px solid #707070;
+  opacity: 1;
+}
+
+.btnComprar {
+  margin-top: 10px;
+  font-size: 16px;
+  background: #FFF;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  color: #888888;
+  height: 30px;
+  width: 200px;
+  text-align: left;
+  font-family: HelveticaNeue;
+  letter-spacing: 0px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.h2Name {
+  font-size: 14px;
+  font-family: HelveticaNeue;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.h3Desc,
+.h3Old {
+  font-size: 12px;
+  text-align: left;
+  flex-wrap: wrap;
+  display: flex;
+  width: 200px;
+  font-family: HelveticaNeue;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.h2Price {
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+.h4Stall {
+  font-size: 12px;
+  font-family: HelveticaNeue;
+  font-weight: 300;
+}
