@@ -1,21 +1,9 @@
-# API HOTEL <img src="./src/assets/img/local_hotel-removebg-preview.png"  width="40px;">
+# MOCK REACT
 
 <div id="inicio" align="center">
   <a href="#Projeto">Projeto  |</a>&nbsp;&nbsp;
-  <a href="#Squad"> Squad  |</a>&nbsp;&nbsp;
-  <a href="#modelagem-e-entidades"> Modelagem e Entidades |</a>&nbsp;&nbsp;
   <a href="#pré-requisitos"> Pré-requisitos  |</a>&nbsp;&nbsp;
-  <a href="##packages"> Packages  |</a>&nbsp;&nbsp;
-  <a href="#como-utilizar-a-api">Como usar a API</a>&nbsp;&nbsp;
-</div>
-
-<div align="center">
-  <a href="#rotas-implementadas"> Rotas Implementadas  |</a>&nbsp;&nbsp;
-   <a href="#hóspedes">Hóspedes    |</a>&nbsp;&nbsp;
-    <a href="##reservas-1">Reservas  |</a>&nbsp;&nbsp;
-     <a href="#lazer">Lazer  |</a>&nbsp;&nbsp;
-      <a href="#servicos">Serviços  |</a>&nbsp;&nbsp;
-       <a href="#restaurante">Restaurante  </a>&nbsp;&nbsp;
+  <a href="#como-utilizar-a-api">Como instalar a aplicação</a>&nbsp;&nbsp;
 </div>
 
 # Projeto
